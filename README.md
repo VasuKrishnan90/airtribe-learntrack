@@ -68,5 +68,3 @@ docs/
 - **Custom Exceptions** — `EntityNotFoundException`, `InvalidInputException`
 - **Enums** — `EnrollmentStatus`, `CourseStatus`
 - **Packages** — clean separation: entity / repository / service / ui / util / exception / constants / enums
-
-Code commited
